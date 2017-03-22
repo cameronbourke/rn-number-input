@@ -42,5 +42,8 @@
   },
   "peerDependencies": {
     "react-native": "^0.0.20"
+  },
+  "dependencies": {
+    "ramda": "^0.23.0"
   }
 }
